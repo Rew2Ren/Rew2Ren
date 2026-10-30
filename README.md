@@ -17,7 +17,7 @@ I'm a final-year Bachelor of Information Technology student at Monash University
 
 ## Beyond code
 
-I'm a trained musician, I've designed sound effects for video games. I speak English fluently, conversational Mandarin and beginner Japanese.
+I’m a trained musician and I’ve designed sound effects for video games. I speak English fluently, conversational Mandarin and beginner Japanese.
 
 📫 [Email](mailto:rew2ren@gmail.com) · [LinkedIn](https://www.linkedin.com/in/brendan-wong-cheng-han) · [Creative Portfolio](https://canva.link/31bn4krq4lor88q)
 
