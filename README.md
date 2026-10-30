@@ -10,14 +10,14 @@ I'm a final-year Bachelor of Information Technology student at Monash University
 
 ## Toolbox
 
-**Testing and security:** pytest, nmap, nikto, dirb, wpscan, wfuzz, Metasploit, Snort, Wireshark, CVSS, STRIDE
-**Development:** Python, PHP (CakePHP), SQL (SQLite), Git, GitLab, GitHub Actions
-**Networking and systems:** GNS3, Cisco Packet Tracer, MikroTik, BGP, IPsec, Linux (Kali, Ubuntu)
-**AI and automation:** Claude Code, Codex, GitHub Copilot, Gemini, Power Automate
+- **Testing and security:** pytest, nmap, nikto, dirb, wpscan, wfuzz, Metasploit, Snort, Wireshark, CVSS, STRIDE
+- **Development:** Python, PHP (CakePHP), SQL (SQLite), Git, GitLab, GitHub Actions
+- **Networking and systems:** GNS3, Cisco Packet Tracer, MikroTik, BGP, IPsec, Linux (Kali, Ubuntu)
+- **AI and automation:** Claude Code, Codex, GitHub Copilot, Gemini, Power Automate
 
 ## Beyond code
 
 I'm a trained musician, I've designed sound effects for video games. I speak English fluently, conversational Mandarin and beginner Japanese.
 
- [[Email]rew2ren@gmail.com] · [[LinkedIn](https://www.linkedin.com/in/brendan-wong-cheng-han)] · [[Creative Portfolio] (https://canva.link/31bn4krq4lor88q)]
+📫 [Email](mailto:rew2ren@gmail.com) · [LinkedIn](https://www.linkedin.com/in/brendan-wong-cheng-han) · [Creative Portfolio](https://canva.link/31bn4krq4lor88q)
 
