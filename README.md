@@ -7,6 +7,8 @@ I'm a final-year Bachelor of Information Technology student at Monash University
 | Project | What it shows |
 |---------|---------------|
 | [Auth Service Test Lab](https://github.com/Rew2Ren/auth-service-test-lab) | Requirements-based pytest suite, SQL log investigation and player-focused bug reports for a service with seeded defects |
+| [Penetration Testing Write-ups](https://github.com/Rew2Ren/pentest-writeups) | Recon to exploitation on a training target, with three CVSS-scored findings including a backdoored FTP server |
+| [Job Tracking Administrative System](https://github.com/Rew2Ren/Job-Tracking-Administrative-System) | Real-client CRM replacing spreadsheet-based quoting and job tracking: development and penetration testing of a three-portal CakePHP system |
 
 ## Toolbox
 
